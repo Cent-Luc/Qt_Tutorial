@@ -1,5 +1,0 @@
-Debian
-Ubuntu
-Kali
-Mint
-Arch
