@@ -1,0 +1,12 @@
+{
+    "person" : {
+        "name" : "Jane Doe",
+        "age" : 30,
+        "location" : "Nairobi"
+    },
+    "cars" : [
+        "Lamborghini",
+        "Pagani",
+        "Audi"
+    ]
+}
