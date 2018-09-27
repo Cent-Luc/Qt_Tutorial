@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Now ignore these
+*.o
+*.pro
+.vscode
+*.stash
+Makefile

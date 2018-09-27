@@ -1,0 +1,18 @@
+I have just realized that i can not sort the playlist in mixxl to be sorted
+according to bpm. So i guess a user will be saving the playlist to an external
+file. My own code will load the next appropriate song based on its bpm and it to
+auto dj playlist
+
+In the normal table track view/ on the decks, i can make there to be a command
+to log a music mixx and cure points.
+
+//There is the "library/playlisttablemodel.h"
+#include "track/track.h"
+#include "library/libraryview.h"
+#include "library/library.h"
+#include "library/trackcollection.h"
+#include "library/playlisttablemodel.h"
+#include "widget/wtracktableview.h"
+
+study these
+and there is sorting in #include "widget/wtracktableview.h"
