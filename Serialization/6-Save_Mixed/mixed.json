@@ -1,0 +1,12 @@
+{
+    "inventory": [
+        "sword",
+        "shield",
+        "armour"
+    ],
+    "stats": {
+        "enemy": "Loki",
+        "name": "Thor",
+        "str": 34
+    }
+}

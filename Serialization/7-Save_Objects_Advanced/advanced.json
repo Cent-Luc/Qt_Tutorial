@@ -1,0 +1,28 @@
+[
+    {
+        "album": "Scorpion",
+        "artist": "Drake",
+        "cues": [
+            23,
+            68,
+            92,
+            125,
+            157
+        ],
+        "title": "Survival",
+        "year": 2018
+    },
+    {
+        "album": "Stories",
+        "artist": "Avicii",
+        "cues": [
+            20,
+            60,
+            90,
+            120,
+            150
+        ],
+        "title": "Waiting for Love",
+        "year": 2013
+    }
+]
