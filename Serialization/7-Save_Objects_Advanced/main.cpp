@@ -1,10 +1,8 @@
 #include <QTextStream>
 #include <QFile>
-#include <QVariant>
 #include <QJsonDocument>
 #include <QJsonObject>
 #include <QJsonArray>
-#include <QVariant>
 
 int main()
 {
