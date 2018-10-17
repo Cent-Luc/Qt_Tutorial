@@ -1,0 +1,62 @@
+[
+    {
+        "album": "Retro Lover",
+        "artist": "Jeremih",
+        "cues": {
+            "descriptions": [
+                "Intro1",
+                "Intro2",
+                "Hook1",
+                "Verse1"
+            ],
+            "times": [
+                20,
+                30.299999237060547,
+                40.29999923706055,
+                56.099998474121094
+            ]
+        },
+        "title": "Planes",
+        "year": "2017"
+    },
+    {
+        "album": "Papa Jones",
+        "artist": "Cashy",
+        "cues": {
+            "descriptions": [
+                "Intro1",
+                "Hook1",
+                "Hook2",
+                "Verse1"
+            ],
+            "times": [
+                17.899999618530273,
+                20.799999237060547,
+                43.900001525878906,
+                62.20000076293945
+            ]
+        },
+        "title": "Micasa",
+        "year": "2015"
+    },
+    {
+        "album": "Good",
+        "artist": "Iggy Azalea",
+        "cues": {
+            "descriptions": [
+                "Intro",
+                "Verse1",
+                "Verse2",
+                "Hook2"
+            ],
+            "times": [
+                15.699999809265137,
+                25.799999237060547,
+                44.70000076293945,
+                70.5999984741211
+            ]
+        },
+        "title": "Going Up",
+        "year": "2017"
+    }
+]

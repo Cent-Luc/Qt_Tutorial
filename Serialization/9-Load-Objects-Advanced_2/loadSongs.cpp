@@ -4,7 +4,6 @@
 #include <QJsonDocument>
 #include <QJsonObject>
 #include <QJsonArray>
-#include <QVariant>
 
 int main()
 {
@@ -42,7 +41,7 @@ int main()
         QVariantMap track = root_list.at(i).toMap();
         out << "\n\nAlbum: " << track["album"].toString() << endl;
         out << "Artist: " << track["artist"].toString() << endl;
-        out << "Title: " << track["year"].toString() << endl;
+        out << "Title: " << track["title"].toString() << endl;
         QVariantMap cues = track["cues"].toMap();
         QVariantList cueDescriptions, cueTimes;
         cueDescriptions = cues["descriptions"].toList();
